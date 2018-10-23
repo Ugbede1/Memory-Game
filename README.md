@@ -1,8 +1,13 @@
 # Memory-Game
-Udacity nanodegree Memory Game Project
 
-Ugbede's Memory Game
+##Udacity nanodegree Memory Game Project
 
+###Ugbede's Memory Game
+
+####Game dependencies
+This game is built with external libraries like *vex-theme-os.css, vex.css, vex.combined.min.js, jquery-3.3.1.min.js.* along with CSS, HTML and JavaScript.
+
+##Instructions
 In this memory game, you are required to click on any card randomly and when there is no match, the cards flip back and are closed but when two cards match, they stay open.
 Once all cards are matched, a popup message appears and congratulates the tester for winning the game. The popup gives a score from 1 to 3, how much time it took, and how many moves it took to finish the game.
 
